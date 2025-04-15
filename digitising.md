@@ -24,3 +24,4 @@ CD Paranoia can be downloaded from here - https://xiph.org/paranoia/
 4. cdparanoia will adjust the speed of the ripping process depending on the condition of the disk. If it is in a poor condition it can take several hours. The software will attempt to repair any data errors it finds and report on this in the terminal as it is running. You will see an output similar to this `(== PROGRESS == [    +eeee>                    | 009870 00 ] == :-P 0 ==)` The icons are explained [here](https://xiph.org/paranoia/manual.html).
 5. To control file sizes and cost, we compress the WAV files into FLAC files. This reduced the size without removing any of the audio detail.
 6. A subtitle file is created for audio files assuming there are spoken words.
+7. Chapters may be created where desired.

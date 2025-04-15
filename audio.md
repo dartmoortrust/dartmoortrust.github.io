@@ -36,3 +36,8 @@ Chapter 1 - Title One
 00:05.000 --> 00:09.000
 Chapter 2 - Title 2
 ````
+Chapters are maintained in our database as follows
+Note: Chapter number may be redundent as they would follow sequentially when ordered by start_time.
+|file_id|chapter_number|chapter_title|start_time|
+|-------|---------|---------|------|
+|jshdfkjfhsdjfhsd|1|A chat about trains|00:01:00|

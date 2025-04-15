@@ -23,10 +23,10 @@ Yes, he's in - in a bad humor
 Somebody must've stolen the crown jewels
 ````
 
-# Chapters
-Chapters allow for a way to link an audio timestamp to a description to enable the user to find content of interest. They also use the WebVTT format but are tagged as chapters in the HTML.
 
 ## Chapter Example
+Chapters allow for a way to link an audio timestamp to a description to enable the user to find content of interest. They also use the WebVTT format but are tagged as chapters in the HTML.
+
 ````
 WEBVTT
 

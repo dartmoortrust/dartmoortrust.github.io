@@ -1,7 +1,7 @@
 ---
 title: My First Page
 layout: default
-toc: false
+toc: true
 ---
 
 # Welcome

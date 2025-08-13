@@ -6,4 +6,4 @@ toc: false
 
 # Welcome
 
-This is my first page.
+[Main Digitisation Guide](digitising)

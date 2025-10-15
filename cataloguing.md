@@ -18,12 +18,15 @@ In order to access the cataloguing system you must first have an account. To get
 
 5. This page will allow you to edit the core metadata for this record. You should complete them as best as you can following the guidance below.
 6. Once you are done, click save before moving to another record.
+
 ## Catalogue Guidance
 The overarching objective of editing Records within the Dartmoor Trust Archive is to ensure that we have captured as much information as we can for the asset whilst maintaining the quality of the information. It is assumed that information is factual unless stated. Where there is a degree of interpretation this must be made clear using plain English - “we believe that”, “it is assumed that” for example. 
 
 The language used must be “human” and not academic. This does not mean that we should dumb down the words used in the Archive, if there is a correct term, it should be used. The Archive’s main audience is the general public for whom Dartmoor is of interest so our writing should reflect this.
+
 ### Original ID
 In most cases you can skip this. Where there is an identifying value that came with the original item, we record this here. This is sometimes visible on the scan but is typically entered when scanning.
+
 ### Title
 One sentence to describe the record. Akin to a headline - for example "A train standing in Princetown station in 1923"
 The intention is not to describe everything but to summarise the key subject matter of the record.

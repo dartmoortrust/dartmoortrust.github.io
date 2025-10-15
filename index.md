@@ -7,6 +7,7 @@ toc: true
 # Welcome
 
 1. [Main Digitisation Guide](digitising)
-2. [File Management](files)
+2. [Cataloguing Guide](cataloguing)
+3. [File Management](files)
 3. [Audio Processing](audio)
 

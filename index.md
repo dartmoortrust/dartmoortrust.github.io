@@ -10,4 +10,5 @@ toc: true
 2. [Cataloging Guide](cataloging)
 3. [File Management](files)
 3. [Audio Processing](audio)
+4. [Record Hierarchy](hierarchy)
 

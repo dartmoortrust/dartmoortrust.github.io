@@ -145,4 +145,3 @@ Fonds: University of Example (F1)
 3. **Referential integrity** - Can't orphan records (CASCADE deletes handle this)
 4. **Unlimited depth** - Can nest as deep as needed
 
-Does this clarify how the self-referential `parent_series_id` creates the hierarchy? Happy to dive deeper into any part!

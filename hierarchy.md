@@ -40,14 +40,14 @@ CREATE TABLE series (
 The **key insight** is `parent_series_id` - this creates the hierarchy:
 
 **Example data:**
-```
+
 | id   | fonds_id | parent_series_id | code | title                    | level_depth |
 |------|----------|------------------|------|--------------------------|-------------|
 | s1   | f1       | NULL             | S1   | Administrative Records   | 0           |
 | s2   | f1       | s1               | S1.1 | Board Minutes           | 1           |
 | s3   | f1       | s1               | S1.2 | Financial Records       | 1           |
 | s4   | f1       | s2               | S1.1.1 | Minutes 1900-1950    | 2           |
-```
+
 
 Notice how:
 - `s1` has no parent (it's a top-level series)
@@ -119,11 +119,13 @@ Fonds: University of Example (F1)
 **In the database:**
 
 **fonds:**
+
 | id | code | title |
 |----|------|-------|
 | f1 | F1 | University of Example |
 
 **series:**
+
 | id | fonds_id | parent_series_id | code | title |
 |----|----------|------------------|------|-------|
 | s1 | f1 | NULL | S1 | Administrative |
@@ -133,6 +135,7 @@ Fonds: University of Example (F1)
 | s2.1 | f1 | s2 | S2.1 | History Dept |
 
 **items:**
+
 | id | series_id | fonds_id | reference_code | title |
 |----|-----------|----------|----------------|-------|
 | i1 | s1.1 | f1 | F1/S1.1/001 | Minutes Jan 1950 |

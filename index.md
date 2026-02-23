@@ -11,4 +11,5 @@ toc: true
 3. [File Management](files)
 3. [Audio Processing](audio)
 4. [Record Hierarchy](hierarchy)
+5. [Using AI](ai)
 

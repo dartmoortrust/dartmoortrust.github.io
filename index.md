@@ -6,10 +6,10 @@ toc: true
 
 # Welcome
 
+1. [Account Creations](signup)
 1. [Main Digitisation Guide](digitising)
-2. [Cataloging Guide](cataloging)
-3. [File Management](files)
-3. [Audio Processing](audio)
-4. [Record Hierarchy](hierarchy)
-5. [Using AI](ai)
-
+1. [Cataloging Guide](cataloging)
+1. [File Management](files)
+1. [Audio Processing](audio)
+1. [Record Hierarchy](hierarchy)
+1. [Using AI](ai)

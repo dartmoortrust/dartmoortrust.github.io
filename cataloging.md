@@ -10,9 +10,13 @@ In order to access the cataloguing system you must first have an account. To get
 
 ## Catalogue Guidance
 
-The overarching objective of editing Records within the Dartmoor Trust Archive is to ensure that we have captured as much information as we can for the asset whilst maintaining the quality of the information. It is assumed that information is factual unless stated. Where there is a degree of interpretation this must be made clear using plain English - “we believe that”, “it is assumed that” for example.
+The overarching objective of editing Records within the Dartmoor Trust Archive is to ensure that we have captured as much information as we can for the record whilst maintaining the quality of the information. It is assumed that information is factual unless stated. Where there is a degree of interpretation this must be made clear using plain English - “we believe that”, “it is assumed that” for example.
 
 The language used must be “human” and not academic. This does not mean that we should dumb down the words used in the Archive, if there is a correct term, it should be used. The Archive’s main audience is the general public for whom Dartmoor is of interest so our writing should reflect this.
+
+#### External Sources
+
+Where external sources are used - book, other websites, wikipedia etc. these should be cited in your text where appropriate.
 
 ### Title
 

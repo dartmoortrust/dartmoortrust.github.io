@@ -85,6 +85,10 @@ If a location is found a box will appear below.
 
 Clicking on the box will apply a marker at that location.
 
+#### AI Location Assistance
+
+With the appropriate checks - AI can also be helpful in finding a location. For example, a recent query to Gemini asking "Could you provide me with an OS grid reference for Dicks Well on Dartmoor?" resulted in a response of "The six-figure grid reference for Dick's Well (North Moor) is: SX 551 860" along with other information. You can read more about using AI [here](ai.md)
+
 ### Notes
 
 This section is for recording information that may be of use to other people cataloguing. It is not visible to the public nor is it searchable.

@@ -11,4 +11,4 @@ toc: true
 1. [Cataloging Guide](cataloging)
 1. [Using AI](ai)
 
-Last updated - 20th March 2026
+Last updated: {{ "now" | date: "%Y-%m-%d %H:%M" }}

@@ -1,18 +1,14 @@
 # Cataloging
 
-For each record we have in our archive we store additional information in the database. This information not only preserves as much background and context for this record as possible but it also helps to enhance the search experience for our users.
+The overarching objective of editing Records within the Dartmoor Trust Archive is to ensure that we have captured as much information as we can for the record whilst maintaining the quality of the information. It is assumed that information is factual unless stated. Where there is a degree of interpretation this must be made clear using plain English - “we believe that”, “it is assumed that” for example.
+
+The language used must be “human” and not academic. This does not mean that we should dumb down the words used in the Archive, if there is a correct term, it should be used. The Archive’s main audience is the general public for whom Dartmoor is of interest so our writing should reflect this.
 
 The objective for our editors is to add as much as is reasonable for each record by completing the following items as follows.
 
 ## Record Editing
 
 In order to access the cataloguing system you must first have an account. To get one you will need to follow [these steps](signup.md).
-
-## Catalogue Guidance
-
-The overarching objective of editing Records within the Dartmoor Trust Archive is to ensure that we have captured as much information as we can for the record whilst maintaining the quality of the information. It is assumed that information is factual unless stated. Where there is a degree of interpretation this must be made clear using plain English - “we believe that”, “it is assumed that” for example.
-
-The language used must be “human” and not academic. This does not mean that we should dumb down the words used in the Archive, if there is a correct term, it should be used. The Archive’s main audience is the general public for whom Dartmoor is of interest so our writing should reflect this.
 
 #### External Sources
 
